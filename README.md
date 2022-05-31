@@ -1,5 +1,7 @@
 # FLL Robot Game Scorer 2018
 
+> This project is archived because it was merged into https://github.com/robots-ju/fll-scoreboard
+
 [![Build Status](https://travis-ci.org/robots-ju/fll-robotgame-scorer-2018.svg)](https://travis-ci.org/robots-ju/fll-robotgame-scorer-2018)
 
 This package contains an **unoffical** javascript score calculator for the FLL 2018 Robot Game competition.
